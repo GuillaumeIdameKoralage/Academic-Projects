@@ -1,4 +1,4 @@
-- ✨ Update : Feb 2024
+- ✨ Update : March 2024
 - 👋 Hi, I’m @GuillaumeIdameKoralage
 - 👀 I’m interested in Statistics/Machine Learning models applied to Financial Markets
 - 🌱 I’m currently learning Quantitative Finance
